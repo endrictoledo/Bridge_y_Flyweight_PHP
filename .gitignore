@@ -1,0 +1,14 @@
+# Archivos temporales de PHP y logs
+*.log
+.phpunit.result.cache
+
+# Configuración de editores (VS Code)
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Si llegas a usar dependencias con Composer
+/vendor/
+composer.lock
